@@ -20,7 +20,7 @@ const tech = {
     cloud: ['AWS', 'Docker'],
     interests: ['GenAI', 'LLMs', 'Full Stack Development']
 }
-
+```
 
 📊 GitHub Stats
 <p align="center">
