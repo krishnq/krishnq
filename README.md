@@ -20,3 +20,12 @@ const tech = {
     cloud: ['AWS', 'Docker'],
     interests: ['GenAI', 'LLMs', 'Full Stack Development']
 }
+
+
+📊 GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnq&show_icons=true&theme=dracula" alt="Krishna's GitHub stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnq&theme=dracula" alt="Krishna's GitHub streak" />
+</p>
